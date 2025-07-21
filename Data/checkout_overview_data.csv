@@ -1,0 +1,7 @@
+item_name,item_id,price,tax,total
+Sauce Labs Backpack,add-to-cart-sauce-labs-backpack,29.99,2.4,32.39
+Sauce Labs Bike Light,add-to-cart-sauce-labs-bike-light,9.99,0.8,10.79
+Sauce Labs Bolt T-Shirt,add-to-cart-sauce-labs-bolt-t-shirt,15.99,1.28,17.27
+Sauce Labs Fleece Jacket,add-to-cart-sauce-labs-fleece-jacket,49.99,4,53.99
+Sauce Labs Onesie,add-to-cart-sauce-labs-onesie,7.99,0.64,8.63
+Test.allTheThings() T-Shirt (Red),add-to-cart-test.allthethings()-t-shirt-(red),15.99,1.28,17.27

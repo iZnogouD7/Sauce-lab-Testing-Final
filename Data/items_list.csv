@@ -1,0 +1,7 @@
+item_name,add_button_locator,expected_price,expected_desc_contains
+Sauce Labs Backpack,add_back_pack_path,29.99,carry.allTheThings()
+Sauce Labs Bike Light,add_bike_light_path,9.99,illuminate
+Sauce Labs Bolt T-Shirt,add_bolt_tshirt_path,15.99,bolt
+Sauce Labs Fleece Jacket,add_Jacket_path,49.99,fleece
+Sauce Labs Onesie,add_onesie_path,7.99,onesie
+Test.allTheThings() T-Shirt (Red),add_red_tshirt_path,15.99,allTheThings
